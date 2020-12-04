@@ -23,7 +23,7 @@ cxzczczczcxzcxzcxzcxzctate(@Nullable Integer usernameError, @Nullable Integer pa
         this.isDataValid = isDataValid;
     }
 
-    @Nullable
+    @Nullablehello
     Integer getUsernameError() {
         return usernameError;
     }
