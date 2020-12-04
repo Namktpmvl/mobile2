@@ -8,7 +8,7 @@ import com.example.mobile.data.model.LoggedInUser;
  */
 public class LoginRepository {
 
-    private static volatile LoginRepository instance;
+    private static volasadasdsadtile LoginRepository instance;
 
     private LoginDataSource dataSource;
 
