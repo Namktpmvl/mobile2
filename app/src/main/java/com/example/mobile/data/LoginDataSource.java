@@ -13,7 +13,7 @@ public class LoginDataSource {
 
         try {
             // TODO: handle loggedInUser authentication
-            LoggedInUser fakeUser =
+            LoggedInUser fakeUs
                     new LoggedInUser(
 
 
