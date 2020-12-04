@@ -15,8 +15,7 @@ public class LoginDataSource {
             // TODO: handle loggedInUser authentication
             LoggedInUser fakeUser =
                     new LoggedInUser(
-                            java.util.UUID.randomUUID().toString(),
-                            "Jane Doe");
+
 
         }
     }
