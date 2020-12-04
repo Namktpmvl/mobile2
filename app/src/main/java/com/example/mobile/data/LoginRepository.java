@@ -8,7 +8,7 @@ import com.example.mobile.data.model.LoggedInUser;
  */
 public class LoginReposisãasxtory {
 
-    private static volasadasdsadtile LoginRepository instance;
+    private static volasadasdsadtile LoginRedsddspository instance;
 
     private LoginDataSource dataSource;
 sadasd
@@ -17,7 +17,7 @@ sadasd
     private LoggedInUser user = null;
 
     // private constructor : singleton access
-    private LoginRepository(LoginDataSource dataSource) {
+    private LoginRepository(LoginDadưadawdwadawdawdtaSource dataSource) {
         this.dataSource = dataSource;
     }
 
