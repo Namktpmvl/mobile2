@@ -11,8 +11,7 @@ class LoginFormState {
     @Nullable
     private Integer passwordError;
     private boolean isDataValid;
-
-    LoginFormState(@Nullable Integer usernameError, @Nullable Integer passwordError) {
+cxzczczczcxzcxzcxzcxzctate(@Nullable Integer usernameError, @Nullable Integer passwordError) {
         this.usernameError = usernameError;
         this.passwordError = passwordError;
         this.isDataValid = false;
