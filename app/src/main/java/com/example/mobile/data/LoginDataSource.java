@@ -17,11 +17,9 @@ public class LoginDataSource {
                     new LoggedInUser(
                             java.util.UUID.randomUUID().toString(),
                             "Jane Doe");
-            return new Result.Success<>(fakeUser);
+
         }
     }
 
-    public void logout() {
-        // TODO: revoke authentication
-    }
+
 }
